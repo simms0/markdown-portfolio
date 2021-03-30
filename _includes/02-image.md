@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My avatar can only be an avatar] (https://static.wikia.nocookie.net/warhammer40k/images/4/41/Avatar_of_Khaine_battle.jpg)
