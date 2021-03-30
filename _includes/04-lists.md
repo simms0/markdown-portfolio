@@ -9,3 +9,5 @@
 2.If things I'm dealing with are ordinal
   -and I can nest unordered lists inside them
     1.Nota bene: No whitespace is between list symbol and text in list formatting
+
+*Do asterisks give different formatting to lists?
